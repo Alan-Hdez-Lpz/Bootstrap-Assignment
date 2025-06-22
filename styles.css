@@ -1,0 +1,28 @@
+/* Custom Navbar */
+.navbar-custom {
+  background-color: #0d47a1; /* dark blue */
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: #ffffff;
+}
+.navbar-custom .nav-link:hover {
+  color: #bbdefb; /* light blue hover */
+}
+
+/* Custom Card Style */
+.card-custom {
+  background-color: #e3f2fd; /* light blue background */
+  border: 1px solid #0d47a1; /* dark blue border */
+}
+
+/* Custom Button Style */
+.btn-custom {
+  background-color: #1976d2; /* medium blue */
+  border-color: #1976d2;
+  color: white;
+}
+.btn-custom:hover {
+  background-color: #0d47a1; /* darker blue on hover */
+  border-color: #0d47a1;
+}
